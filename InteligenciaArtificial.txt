@@ -1,1 +1,4 @@
 Inteligencia Artificial
+Inteligencia artificial es la capacidad de hacer que las máquinas simulen nuestro razonamiento humano, haciéndoles entender la información para usarla en su proceso de toma de desiciones.-
+Ejemplo: Gemini, chat GPT, copilot.
+La IA se puede usar para automatizar procesos internos.- 
